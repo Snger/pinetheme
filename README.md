@@ -1,7 +1,7 @@
-# Pacman
+# pinetheme
 
-pacman是为hexo设计的一款主题。
-可以访问[Alimon's Blog](http://yangjian.me)查看效果。
+pinetheme是为hexo设计的一款主题。forked from [A-limon/pacman](https://github.com/A-limon/pacman).
+可以访问[my Blog](http://snger.github.io/)查看效果。
 关于Hexo及其主题请参考[文档](http://zespia.tw/hexo/)。
 
 ##概述
@@ -21,7 +21,7 @@ pacman是为hexo设计的一款主题。
 
 	google_analytics: 填写Google Analytics 的账户ID
 
-	duoshuo: 多说账户ID
+	duoshuo: 多说账户ID，如果没配置，将使用 disqus
 
 	google_plus: Google Plus账户ID
 
