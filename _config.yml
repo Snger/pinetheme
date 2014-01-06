@@ -2,8 +2,8 @@ menu:
   博客: /
   存档: /archives
   关于: /about
+  专题: /projects
   实验室: /lab
-  简历: /resume
 
 widgets: 
 - category
@@ -12,20 +12,23 @@ widgets:
 
 excerpt_link: Read More
 
-google_analytics: UA-1766729-8
+google_analytics: UA-27385230-1
 
-duoshuo: yangjian
+google_plus:
 
-google_plus: 116338260303228776998
+twitter: #右边栏要显示twitter展示的话，需要在此设置
+  username: sjs_stef
+  show_replies: false
+  tweet_count: 2 
 
-weibo_url: http://weibo.com/436062867
-twitter_url: https://twitter.com/yangjiansky
-github_url: https://github.com/A-limon
-facebook_url: https://www.facebook.com/yangjian
+weibo_url: http://weibo.com/snger
+twitter_url: https://twitter.com/sjs_stef
+github_url: https://github.com/snger
+facebook_url: 
 
 jiathis:
   enable: true
-  id: 1501277
-  tsina: 1664838973
-  
-rss: http://www.yangjian.me/atom.xml
+  id: 
+  tsina: 1530558400
+
+rss: /atom.xml
